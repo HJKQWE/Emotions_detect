@@ -8,6 +8,7 @@
 веселость: 339
 нейтральность: 398
 
+Дипломный проект является групповой работой трех авторов. Мой блок кода содержится в пунктах 1.2 и 2.1, а также, в общих блоках работы (подготовка и использованные источники).
 
 Thesis on the topic "Classification of images with people's emotions".
 The paper presents the results of prediction of trained neural networks on various frameworks, namely, TensorFlow and PyTorch. And also, as an experiment, classical ML models (Random Forest, Markov) were used using the Scikit-learn library.
@@ -18,3 +19,5 @@ disgust: 292
 fear: 177
 joyfulness: 339
 neutrality: 398
+
+The graduation project is a group work of three authors. My code block is contained in paragraphs 1.2 and 2.1, as well as in the general blocks of work (preparation and sources used).
